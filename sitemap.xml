@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://yourdomain.com/</loc>  <!-- домен -->
+    <lastmod>2023-09-16</lastmod>  <!-- дата -->
+    <changefreq>daily</changefreq>  <!-- Частота обновления страницы -->
+    <priority>1.0</priority>  <!-- Приоритет индексации (от 0.0 до 1.0) -->
+  </url>
+</urlset>
